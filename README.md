@@ -1,5 +1,5 @@
-# AirBnB Clone [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/charleswanjiku/AirBnB_clone/blob/master/LICENSE) [![Build Status](https://github.com/charleswanjiku/AirBnB_clone.svg?branch=master)](https://travis-ci.org/charleswanjiku/AirBnB_clone)
-![HBnB Logo](./image/hbnb_logo.png)
+# AirBnB Clone
+![HBnB Logo](65f4a1dd9c51265f49d0.png)
 
 
 ### Contents
@@ -122,10 +122,10 @@ e6ee5344-04ef-454d-84e4-ba6fc613f1b4
 ```
 
 ## Built with :gear:
-python3 (3.4.3)
+python3
 
-### Version :pushpin:
-HBnB - version 9.6
+
+
 
 ### Acknowledgements :
 To all the peers that contribuited with their knowledge

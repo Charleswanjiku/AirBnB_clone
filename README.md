@@ -19,7 +19,7 @@ This is the first phase of a four phase project, to create a basic clone of the 
 
 
 ## Environment :computer:
-The console was developed in Ubuntu 14.04LTS using python3.
+The console was developed in Ubuntu 20.04LTS using python3.
 
 ### Further information :bookmark_tabs:
 For further information on python version, and documentation visit [python.org](https://www.python.org/).

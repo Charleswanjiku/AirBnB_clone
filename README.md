@@ -130,6 +130,8 @@ python3
 ### Acknowledgements :
 To all the peers that contribuited with their knowledge
 
-### Authors :fountain_pen:
+### Authors of original:fountain_pen:
 * Jolayemi Goodness - jolayemigoodness@gmail.com
 * Charles Wanjiku
+
+### Author of version 2.0:fountain_pen:                            * Jolayemi Goodness - jolayemigoodness@gmail.com
